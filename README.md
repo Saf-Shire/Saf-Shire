@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋🏽, I'm Safia</h1>
-<h3 align="center">A Black Codher Bootcamp student from Birmingham,England.</h3>
+<h3 align="center">A 24 year old Graduate Software Engineer from Birmingham, England.</h3>
+<h3 align="center">Previous Black Codher Bootcamp Alumni.</h3>
 
-- 🔭 I’m currently working on **building more projects.**
+- 🔭 I’m currently working on **redesigning my portfolio.**
 
-- 🌱 I’m currently learning **React JS and Node JS.**
+- 🌱 I’m currently learning **C# for my role.**
 - 💫 Link to my portfolio [safiashire.com](https://www.safiashire.com/)
 
 <h3 align="left">Connect with me:</h3>
